@@ -2,7 +2,7 @@
 Data assembled and prepared on behalf of [South Ural State University](https://www.susu.ru/en).
 
 ## Bearing Fault Dataset
-A bearing fault dataset has been provided to facilitate research into bearing analysis. The dataset comprises data from a bearing test rig.
+A bearing fault dataset has been provided to facilitate research into bearing analysis. The dataset comprises data from a bearing test rig. The distinguishing feature of a data set is the way it is collected. A wireless sensor that measures linear and angular acceleration is mounted directly on a rotating shaft. The dataset is introduced and first analyzed in the [paper](https://www.sciencedirect.com/science/article/pii/S0888327022005714?via%3Dihub).
 
 The linear and angular signals of all five bearings were collected with a sampling frequency of 31.175 kHz with the system operating at 1200 rpm (i.e. at 20 Hz).
 
